@@ -6,7 +6,7 @@ body {
 	font-family: Arial;
 	font-size: 14px;
 	margin: 0;
-	min-width: 100%;
+	min-width: 960px;
 	padding: 0;
 }
 
@@ -16,7 +16,6 @@ a {
 
 img {
 	border: 0;
-	max-width: 100%;
 }
 
 #header {
@@ -27,13 +26,12 @@ img {
 #header div {
 	margin: 0 auto;
 	overflow: hidden;
-	width: 100%;
+	width: 960px;
 }
 
 #header div img {
 	float: left;
 	margin-top: 15px;
-	max-width: 100%;
 }
 
 #header div ul {
@@ -55,12 +53,12 @@ img {
 
 #header div ul li a {
 	color: #495531;
-	display: block;
-	height: 30px;
-	line-height: 30px;
-	text-align: center;
-	text-decoration: none;
-	width: 90px;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    width: 90px;
 }
 
 #header div ul li a:hover {
@@ -76,17 +74,17 @@ img {
 	background: url(../images/bg-homepage.jpg) no-repeat top center;
 	min-height: 1170px;
 	margin: 0 auto;
-	overflow: hidden;
-	width: 80%;
+    overflow: hidden;
+    width: 960px;
 }
 
 #content div div {
 	background: none;
 	float: right;
-	margin: 500px 0 0;
-	min-height: 0;
-	padding-right: 10px;
-	width: 40%;
+    margin: 500px 0 0;
+    min-height: 0;
+    padding-right: 10px;
+    width: 460px;
 }
 
 #content div div h1, #content div div h2 {
@@ -118,7 +116,7 @@ div.content {
 
 div.content div {
 	margin: 0 auto;
-	width: 100%;
+	width: 960px;
 }
 
 div.content div div {
@@ -488,7 +486,7 @@ div.content p a {
 #footer div {
 	margin: 0 auto;
 	overflow: hidden;
-	width: 100%;
+	width: 960px;
 }
 
 #footer div div {
