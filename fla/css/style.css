@@ -6,7 +6,7 @@ body {
 	font-family: Arial;
 	font-size: 14px;
 	margin: 0;
-	min-width: 960px;
+	min-width: 100%;
 	padding: 0;
 }
 
@@ -27,7 +27,7 @@ img {
 #header div {
 	margin: 0 auto;
 	overflow: hidden;
-	width: 960px;
+	width: 100%;
 }
 
 #header div img {
@@ -118,7 +118,7 @@ div.content {
 
 div.content div {
 	margin: 0 auto;
-	width: 960px;
+	width: 100%;
 }
 
 div.content div div {
@@ -488,7 +488,7 @@ div.content p a {
 #footer div {
 	margin: 0 auto;
 	overflow: hidden;
-	width: 960px;
+	width: 100%;
 }
 
 #footer div div {
