@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/javawithjiva
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.javawithjiva.com
+  * I am javawithjiva (https://keybase.io/javawithjiva) on keybase.
+  * I have a public key with fingerprint 2351 BBBA 077D 466E 6139  D482 082C F101 E7F0 8D63
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2351bbba077d466e6139d482082cf101e7f08d63",
+            "host": "keybase.io",
+            "key_id": "082cf101e7f08d63",
+            "kid": "0101fd7132960c80697f10e71a57b20e5f940468b78d772b6eed4656f035423f4e2b0a",
+            "uid": "36fe5734f57afdc9ea6371df8f1a8d19",
+            "username": "javawithjiva"
+        },
+        "service": {
+            "hostname": "www.javawithjiva.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424281424,
+    "expire_in": 157680000,
+    "prev": "92232e44fb3162afcea3d8a82ca8a0e3af030c382dd033fd6754bc77d719cc8b",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMIlAnicbZJtSBRBGIDPtPQORSkjQS1aESlNdnd2d/YOlaAICTMjSTThmt2d1T3z
+9rxbz2+L8IeRJlkggVKWkEI/lOxPhqidRkREH+RJWWRmiBp9GCUWNGsG/Wh+zDDv
+PO8zM+9MICrUYgvJUSPCW/t2FYQ8HM2ptOTPPs6royRdqaEcdVQZXhtUzV2CvR6v
+5jYoB8UCnpEkCdEQKpwgYIEBdoUTWVpkZZWhGQxVWlQEQKVRpbrPzCAaCflwuqaT
+GJk4NYVE/8OX/VkgQVWBDGDtAi2LtGCHhMOQQTyUWBrzqp2jOUGUoKhAyEoCxuQg
+vKDSgOdYoHKYlWhEdJVrOiComIeAU3mIVEW2YyQAyCiqqDJIVBi7Cfqw143KMaFd
+yI+qNKPUpfkR1ZBGkRW/JmOzDOZt1qmqqqr0f8l0WS8nHo9XN3RZP0mIUsPwOEyB
+UeNZy8CSc93llDS3QkpKEvzY69N0N+VgCCkbmilnOJZjRbNPo3C1R/Nip2YSPBRE
+mjRzG+wnSjvLAhZznCoBRmCRKmMEFBGRsiIR0RggUhBaBiKrKDQAqiJAnpNk8mqQ
+scuyKFHm7SrcOuUQyDFRCVH6tBI3Miq9mGoYGykOs4TYLJs2bjA/hcVmjfn7VT6d
+i7Dci8JTTxM6s4fzf47/sC1tNW7FgsRCJnCsfjBrMTr39cstk+3PP144fle//iwj
+p68xr/HQ9viC6dEhihkojBmc2L/ZNr4YWVTblJw3U5F56lFTd+n4q7avacOhaNu1
+d6NzNz9nrWbPOrrYjisKujgfbN896XL1LAcLTifRRxL68dETwbhLK/suJy8OnQlf
+TtWjb9/oCPZ+GXqTNbUa2LNgtEZGWq8eTE+d/l7WnRJaTf+KgxWdYfr88pK1p23+
+zuGub1a8c2YktuV80YFAb8z9gbbm0ajcFUvyQkvz3oz4iaX6qbodvqEO61jTC8E3
+l1L7PrT9w4Pis08GEjP7k0be/gaNqy4W
+=e83E
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/javawithjiva
+
+==================================================================
+
