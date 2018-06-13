@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.javawithjiva.com/about/</loc>
+    <loc>https://www.javawithjiva.com/about/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.javawithjiva.com/categories/</loc>
+    <loc>https://www.javawithjiva.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.javawithjiva.com/</loc>
+    <loc>https://www.javawithjiva.com/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.javawithjiva.com/tags/</loc>
+    <loc>https://www.javawithjiva.com/tags/</loc>
     <priority>0</priority>
   </url>
   
