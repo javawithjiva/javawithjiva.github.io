@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java with Jiva</title>
+    <link>http://www.javawithjiva.com/</link>
+    <description>Recent content on Java with Jiva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.javawithjiva.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Azeem Jiva</title>
+      <link>http://www.javawithjiva.com/about/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.javawithjiva.com/about/</guid>
+      <description>Software executive with proven track record of planning, leading, and launching large scale software products. Technical expertise in Java Virtual Machine, Compilers, and Computer Architecture (X86 and SPARC). Strong track record of building effective engineering organizations from early stage to maturity, and in bootstrapping new products from scratch. Successfully launched large scale product roll-outs on schedule, using various software development methodologies. Extremely proficient in all phases of the software life-cycle from definition to architecture, release, and post-release maintenance/support.</description>
+    </item>
+    
+  </channel>
+</rss>
