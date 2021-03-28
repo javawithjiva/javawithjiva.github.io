@@ -49,15 +49,9 @@
 
 <body class="list">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
+    document.body.classList.add('dark');
 </script>
+    
 <noscript>
     <style type="text/css">
         .theme-toggle,
@@ -67,6 +61,7 @@
 
     </style>
 </noscript>
+    
 <header class="header">
     <nav class="nav">
         <div class="logo">
