@@ -1,38 +1,185 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
-
+<html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Azeem Jiva's site">    
     <title>Java with Jiva</title>
 
-<link rel="canonical" href="https://javawithjiva.github.io/" />
-<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" integrity="sha384-G9DpmGxRIF6tpgbrkZVcZDeIomEU22LgTguPAI739bbKytjPE/kHTK5YxjJAAEXC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" integrity="sha384-G9DpmGxRIF6tpgbrkZVcZDeIomEU22LgTguPAI739bbKytjPE/kHTK5YxjJAAEXC" crossorigin="anonymous">
+    <link rel="canonical" href="https://javawithjiva.github.io/" />
 
-<link rel="icon" href="https://javawithjiva.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://javawithjiva.github.io/img/favicon.ico">
-<link rel="icon" type="image/png" sizes="32x32" href="https://javawithjiva.github.io/img/favicon.ico">
-
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' ; script-src 'none' ; style-src 'self' ; base-uri 'self' ; form-action 'none' ; frame-ancestors 'none'">
-
+    <link rel="icon" href="https://javawithjiva.github.io/favicon.ico">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' ; script-src 'none' ; style-src 'self' ; base-uri 'self' ; form-action 'none' ; frame-ancestors 'none'">
 </head>
+<style>
+.custom-menu-wrapper {
+    background-color: #808080;
+    margin-bottom: 2.5em;
+    white-space: nowrap;
+    position: relative;
+}
 
-<img src="https://javawithjiva.github.io/img/avatar.jpg" alt="profile image" height="150" width="150" />
+.custom-menu {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+}
+
+.custom-menu .pure-menu-link,
+.custom-menu .pure-menu-heading {
+    color: white;
+}
+
+.custom-menu .pure-menu-link:hover,
+.custom-menu .pure-menu-heading:hover {
+    background-color: transparent;
+}
+
+.custom-menu-top {
+    position: relative;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.custom-menu-brand {
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.custom-menu-toggle {
+    width: 44px;
+    height: 44px;
+    display: block;
+    position: absolute;
+    top: 3px;
+    right: 0;
+    display: none;
+}
+
+.custom-menu-toggle .bar {
+    background-color: white;
+    display: block;
+    width: 20px;
+    height: 2px;
+    border-radius: 100px;
+    position: absolute;
+    top: 22px;
+    right: 12px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.custom-menu-toggle .bar:first-child {
+    -webkit-transform: translateY(-6px);
+    -moz-transform: translateY(-6px);
+    -ms-transform: translateY(-6px);
+    transform: translateY(-6px);
+}
+
+.custom-menu-toggle.x .bar {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.custom-menu-toggle.x .bar:first-child {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.custom-menu-screen {
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+    height: 3em;
+    width: 70em;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.custom-menu-tucked .custom-menu-screen {
+    -webkit-transform: translateY(-44px);
+    -moz-transform: translateY(-44px);
+    -ms-transform: translateY(-44px);
+    transform: translateY(-44px);
+}
+
+@media (max-width: 62em) {
+
+    .custom-menu {
+        display: block;
+    }
+
+    .custom-menu-toggle {
+        display: block;
+        display: none\9;
+    }
+
+    .custom-menu-bottom {
+        position: absolute;
+        width: 100%;
+        border-top: 1px solid #eee;
+        background-color: #808080\9;
+        z-index: 100;
+    }
+
+    .custom-menu-bottom .pure-menu-link {
+        opacity: 1;
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0);
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+
+    .custom-menu-bottom.custom-menu-tucked .pure-menu-link {
+        -webkit-transform: translateX(-140px);
+        -moz-transform: translateX(-140px);
+        -ms-transform: translateX(-140px);
+        transform: translateX(-140px);
+        opacity: 0;
+        opacity: 1\9;
+    }
+
+    .pure-menu-horizontal.custom-menu-tucked {
+        z-index: -1;
+        top: 45px;
+        position: absolute;
+        overflow: hidden;
+    }
+
+}
+</style>
+
+<div class="main">    
+    <img src="https://javawithjiva.github.io/img/avatar.jpg" alt="profile image" height="150" width="150" />
   
-<h1>Azeem Jiva</h1>
-<a href="https://twitter.com/javawithjiva" target="_blank" rel="noopener noreferrer me" title="Twitter"></a>
-<a href="https://www.linkedin.com/in/azeemjiva/" target="_blank" rel="noopener noreferrer me" title="Linkedin"></a>
-<a href="https://github.com/AzeemJiva" target="_blank" rel="noopener noreferrer me" title="Github"></a>
-<a href="https://stackoverflow.com/users/3605747/java-with-jiva" target="_blank" rel="noopener noreferrer me" title="Stackoverflow"></a>
+    <h1>Azeem Jiva</h1>
+    
+    <a href="https://twitter.com/javawithjiva" target="_blank" rel="noopener noreferrer me" title="Twitter"></a>
+    <a href="https://www.linkedin.com/in/azeemjiva/" target="_blank" rel="noopener noreferrer me" title="Linkedin"></a>
+    <a href="https://github.com/AzeemJiva" target="_blank" rel="noopener noreferrer me" title="Github"></a>
+    <a href="https://stackoverflow.com/users/3605747/java-with-jiva" target="_blank" rel="noopener noreferrer me" title="Stackoverflow"></a>
 
-</main>
+</div>
 
 <footer class="footer">
     <span>&copy; 2021 <a href="https://javawithjiva.github.io">Java with Jiva</a></span>  
 </footer>
 
 </body>
-
 </html>
