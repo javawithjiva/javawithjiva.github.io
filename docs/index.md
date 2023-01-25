@@ -9,3 +9,5 @@ My role within a team is to provide a safe place for each member to do their bes
 
 ## What I like to do
 I'm passionate about the outdoors and will often be hiking in and around the Bay Area. Even my vacations are filled with hikes, including a desolate one in Iceland with no soul for as far as I could see. I'm also a fan of reading and often will have classic Sci-Fi novels from Asimov, Bear, and others on my Kindle.
+
+Happy to chat
