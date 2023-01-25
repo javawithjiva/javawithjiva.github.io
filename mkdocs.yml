@@ -6,13 +6,12 @@ site_author: Azeem Jiva
 theme:
   name: material
   locale: en
-  features:
-    - navigation.footer
 
 copyright: Copyright &copy; 2023 Azeem Jiva
 
 plugins:
-  - social
+  - social:
+      cards_font: Roboto
 
 extra:
   social:
