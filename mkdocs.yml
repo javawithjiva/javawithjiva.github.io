@@ -6,3 +6,13 @@ site_author: Azeem Jiva
 theme:
   name: material
   locale: en
+
+plugins:
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/javawithjiva
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/azeemjiva/
