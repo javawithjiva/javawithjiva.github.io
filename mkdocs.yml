@@ -5,8 +5,7 @@ site_author: Azeem Jiva
 
 theme:
   name: material
-  locale: en
-
+  
 copyright: Copyright &copy; 2023 Azeem Jiva
 
 plugins:
