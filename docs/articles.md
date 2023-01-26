@@ -1,3 +1,8 @@
+---
+title: Published works
+Description: Presentations, and opensource contributions
+---
+
 # Published works
 
 ## Presentations

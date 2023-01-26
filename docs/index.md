@@ -6,8 +6,7 @@ Description: A little about me
 # About Azeem
 
 I have over 13 years of management experience, including managing large distributed teams across geographically diverse locations in Europe and the USA. 
-My primary expertise is with Java Virtual Machine (JVM) teams at Oracle, Amazon, Twitter, and Apple. That said, most of my engineering life has been in 
-systems with experience in operating systems, Kubernetes, and other platform infrastructure-related areas.
+My primary expertise is with Java Virtual Machine (JVM) teams at Oracle, Amazon, Twitter, and Apple. Additionally, I've worked with teams on operating systems design, Kubernetes, and other platform infrastructure-related areas.
 
 I'm a past contributor to the development of the Sun/Oracle HotSpot JVM compiler while working at Sun and AMD. In addition, I have submitted and been
 granted US Patents for code generation, virtualization, and graphics acceleration of code.
