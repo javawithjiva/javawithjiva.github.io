@@ -1,4 +1,9 @@
-# Java with Jiva
+---
+title: Java with Jiva
+Description: A little about me
+---
+
+# About Azeem
 
 I have over 13 years of management experience, including managing large distributed teams across geographically diverse locations in Europe and the USA. 
 My primary expertise is with Java Virtual Machine (JVM) teams at Oracle, Amazon, Twitter, and Apple. That said, most of my engineering life has been in 

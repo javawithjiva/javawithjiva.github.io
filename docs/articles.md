@@ -1,4 +1,4 @@
-# Some of my published works
+# Published works
 
 ## Presentations
 
