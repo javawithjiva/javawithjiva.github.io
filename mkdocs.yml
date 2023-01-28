@@ -5,6 +5,11 @@ site_author: Azeem Jiva
 
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    scheme: slate
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
@@ -15,6 +20,6 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/javawithjiva
+      link: https://twitter.com/javawithjiva/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/azeemjiva/
