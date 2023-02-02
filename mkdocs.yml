@@ -18,8 +18,11 @@ plugins:
       cards_font: Roboto
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/javawithjiva/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/azeemjiva/
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@Javawithjiva
