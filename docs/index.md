@@ -24,6 +24,5 @@ there is no blame, only paths forward.
 
 I'm passionate about the outdoors and will often be hiking in and around the Bay Area. 
 My vacations include hikes, including a recent, incredibly desolate one in Iceland 
-with no soul for as far as I could see. I'm also a fan of reading and often will have 
-classic Sci-Fi novels from Asimov, Bear, and others on my Kindle.
-
+with no soul for as far as I could see. I'm also a fan of reading and often read 
+classic Sci-Fi novels on my Kindle.
