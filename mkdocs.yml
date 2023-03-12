@@ -11,6 +11,8 @@ theme:
   palette:
     scheme: slate
   favicon: assets/favicon.png
+  icon:
+    logo: logo
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
