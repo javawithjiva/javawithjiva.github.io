@@ -10,6 +10,7 @@ theme:
     code: Roboto Mono
   palette:
     scheme: slate
+  favicon: assets/favicon.png
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
