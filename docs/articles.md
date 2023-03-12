@@ -11,6 +11,7 @@ Description: Presentations, and opensource contributions
 * J4K 2020 [Dockerized JVM on ARM64](https://www.youtube.com/watch?v=naz4LMS7U58)
 * COBOL to Java Episode 5: [Code-level optimizations and the AWS CDK in Java](https://pages.awscloud.com/cobol-to-java-video-series.html)
 * [Virtualizing a Virtual Machine](https://www.slideshare.net/adorepump/virtualizing-a-virtual-machine-presentation)
+* Jazoon09 [How badly written optimizations can undo automatic JVM benefits](https://jazoon.com/history/Portals/0/Content/ArchivWebsite/jazoon.com/jazoon09/en/conference/presentationdetailsa07a.html)
 
 ## Opensource Contributions
 
