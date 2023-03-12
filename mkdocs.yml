@@ -10,7 +10,6 @@ theme:
     code: Roboto Mono
   palette:
     scheme: slate
-  favicon: assets/favicon.png
   icon:
     logo: logo
   
