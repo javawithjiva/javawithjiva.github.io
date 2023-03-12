@@ -11,7 +11,7 @@ theme:
   palette:
     scheme: slate
   icon:
-    logo: logo
+    logo: material/coffee
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
