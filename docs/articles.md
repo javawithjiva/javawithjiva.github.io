@@ -26,7 +26,7 @@ Description: Presentations, Papers, opensource contributions and others
 ## Patents
 
 * [US 8,782,622](https://patents.google.com/patent/US8782622): Optimistic Selection of Best Performing Generated Code of Multiple ISA Systems
-* [US 8,301,672](https://patents.google.com/patent/US8301672): GPU Assisted Garbage CollectionGPU Assisted Garbage Collection 
+* [US 8,301,672](https://patents.google.com/patent/US8301672): GPU Assisted Garbage Collection
 
 ## Interviews
 
