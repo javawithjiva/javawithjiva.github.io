@@ -18,6 +18,8 @@ copyright: Copyright &copy; 2023 Azeem Jiva
 plugins:
   - social:
       cards_font: Roboto
+  - minify:
+      minify_html: true
 
 extra:
   generator: false

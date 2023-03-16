@@ -19,5 +19,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material mkdocs-material-extensions pillow cairosvg --upgrade
+      - run: pip install mkdocs-minify-plugin mkdocs-material mkdocs-material-extensions pillow cairosvg --upgrade
       - run: mkdocs gh-deploy --force
