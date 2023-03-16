@@ -3,6 +3,9 @@ site_url: https://www.javawithjiva.com/
 site_description: Azeem's personal website - Java with Jiva
 site_author: Azeem Jiva
 
+repo_name: javawithjiva/web-site
+repo_url: https://github.com/javawithjiva/javawithjiva.github.io
+
 theme:
   name: material
   font:
@@ -10,6 +13,8 @@ theme:
     code: Roboto Mono
   palette:
     scheme: slate
+    primary: green
+    accent: dark orange
   icon:
     logo: material/coffee
   
