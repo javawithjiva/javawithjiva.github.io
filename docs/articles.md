@@ -21,6 +21,7 @@ Description: Presentations, Papers, opensource contributions and others
 
 * [OpenJDK](https://github.com/openjdk/)
 * [SPECsip](https://dl.acm.org/doi/abs/10.1145/2479871.2479938) infrastructure and application benchmark
+* [SPECjvm2008](https://www.spec.org/jvm2008/docs/benchmarks/compress.html) benchmark
 * [Apache SPARK 2.0](https://spark.apache.org/releases/spark-release-2-0-0.html)
 
 ## Patents
