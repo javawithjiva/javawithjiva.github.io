@@ -12,8 +12,7 @@ theme:
     scheme: slate
     primary: green
     accent: deep orange
-  icon:
-    logo: assets/images/favicon.png
+  logo: assets/images/favicon.png
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
