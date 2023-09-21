@@ -9,16 +9,14 @@ theme:
     text: B612
     code: B612 Mono
   palette:
-    scheme: slate
-    primary: green
-    accent: deep orange
+    scheme: default
   logo: assets/images/favicon.png
   
 copyright: Copyright &copy; 2023 Azeem Jiva
 
 plugins:
   - social:
-      cards_font: Roboto
+      cards_font: B612
   - minify:
       minify_html: true
 
