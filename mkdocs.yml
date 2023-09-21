@@ -6,8 +6,8 @@ site_author: Azeem Jiva
 theme:
   name: material
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: B612
+    code: B612 Mono
   palette:
     scheme: slate
     primary: green
