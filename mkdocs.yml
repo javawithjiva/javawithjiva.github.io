@@ -6,17 +6,17 @@ site_author: Azeem Jiva
 theme:
   name: material
   font:
-    text: B612
+    text: Roboto
     code: B612 Mono
   palette:
     scheme: default
   logo: assets/images/favicon.png
   
-copyright: Copyright &copy; 2023 Azeem Jiva
+copyright: Copyright &copy; 2024 Azeem Jiva
 
 plugins:
   - social:
-      cards_font: B612
+      cards_font: Roboto
   - minify:
       minify_html: true
 
