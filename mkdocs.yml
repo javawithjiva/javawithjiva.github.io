@@ -4,7 +4,6 @@ site_description: Azeem's personal website - Java with Jiva
 site_author: Azeem Jiva
 
 theme:
-  name: material
   font:
     text: Roboto
     code: B612 Mono
@@ -45,9 +44,7 @@ plugins:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/javawithjiva/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/azeemjiva/
-    - icon: fontawesome/brands/mastodon
-      link: https://mastodon.social/@Javawithjiva
+    - icon: fontawesome/brands/github
+      link: https://github.com/azeemjiva
