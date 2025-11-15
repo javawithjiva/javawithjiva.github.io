@@ -1,0 +1,24 @@
+[project]
+site_name = "Azeem Jiva"
+site_url = "https://www.javawithjiva.com/"
+site_description = "Azeem's personal website - Java with Jiva"
+site_author = "Azeem Jiva"
+copyright = "Copyright &copy; 2025 Azeem Jiva"
+
+[project.theme]
+scheme = "default"
+font.text = "Roboto"
+font.code = "JetBrains Mono"
+features = [
+    "search.highlight",
+    "navigation.footer"
+]
+
+[project.extra]
+generator = false
+  
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/azeemjiva/"
+icon = "fontawesome/brands/github"
+link = "https://github.com/azeemjiva"
