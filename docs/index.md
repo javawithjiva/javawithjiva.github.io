@@ -5,24 +5,16 @@ Description: A little about me
 
 # About Azeem
 
-I have over 10 years of engineering experience, and 15 years of management experience, 
-managing large distributed teams across geographically diverse locations in Europe and 
-the USA. My primary expertise is with Java Virtual Machine (JVM) teams at Oracle, Amazon, 
-Twitter, and Apple. Additionally, I've worked with teams on operating systems design, Kubernetes, 
-and other platform infrastructure-related areas. I'm a past contributor to the development of the 
-Sun/Oracle HotSpot JVM compiler while working at Sun and AMD. In addition, I have submitted 
-and granted US Patents for code generation, virtualization, and graphics acceleration of code.
+I bring over 25 years of combined experience in software engineering and management, specializing in leading large, distributed teams across the US and Europe. My core expertise lies in **Java Virtual Machine (JVM)** development, having led teams at **Oracle, Amazon, Twitter, and Apple**.
+
+Beyond the JVM, I have deep experience with Operating Systems design, Kubernetes, and platform infrastructure. Before moving into management, I was a hands-on contributor to the **Sun/Oracle HotSpot JVM compiler** at Sun and AMD, and I hold US Patents for code generation, virtualization, and graphics acceleration.
 
 ## How I work
 
-My role within a team is to provide a safe place for each member to do their best work. 
-Every voice should be heard, and feel comfortable being their best self. Conflicts are 
-welcome but healthy, focusing on the task at hand. When things go poorly, 
-there is no blame, only paths forward.
+My primary goal is to build a culture of **psychological safety** where every team member can do their best work. I believe that every voice should be heard and that authenticity drives performance.
+
+I encourage healthy conflict focused on solving the problem at hand, rather than interpersonal friction. When challenges arise, I champion a **blameless culture** that focuses strictly on solutions and paths forward.
 
 ## What I like to do
 
-I'm passionate about the outdoors and will often be hiking in and around the Bay Area. 
-My vacations include hikes, including a recent, incredibly desolate hike in Iceland 
-with no soul for as far as I could see. I'm also a fan of reading and often read 
-classic Sci-Fi novels on my Kindle.
+I am passionate about the outdoors and spend my free time hiking the trails in and around the Bay Area. My vacations are often centered on remote wilderness—most recently, a solitary trek through the pristine landscapes of Iceland. When I’m not hiking, you can find me immersed in classic Sci-Fi novels.
