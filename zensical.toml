@@ -12,6 +12,7 @@ language = "en"
 font.text = "Roboto"
 font.code = "JetBrains Mono"
 favicon = "assets/images/favicon.png"
+logo = "assets/images/favicon.png"
 
 [project.extra]
 generator = false
