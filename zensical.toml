@@ -11,9 +11,7 @@ variant = "modern"
 language = "en"
 font.text = "Roboto"
 font.code = "JetBrains Mono"
-features = [
-    "search.highlight"
-]
+favicon = "assets/images/favicon.png"
 
 [project.extra]
 generator = false
